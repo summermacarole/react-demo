@@ -1,0 +1,26 @@
+.toggle {
+  display: inline-block;
+  width: 100px;
+  height: 30px;
+  margin: auto;
+  border: 1px solid red;
+  background-color: #ffffff;
+  position: relative;
+  &:after {
+    display: inline-block;
+    content: '';
+    width: 50%;
+    height: 100%;
+    border-radius: 4px;
+    background-color: #222222;
+    position: absolute;
+    left: 0;
+  }
+}
+
+.on.toggle {
+  &:after {
+    left: 50%;
+    background-color: red;
+  }
+}

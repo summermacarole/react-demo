@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,MAAO;EACL,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,MAAM,EAAE,IAAI;EACZ,WAAO;IACL,gBAAM,EAAE,IAAI;EAEd,UAAM;IACJ,gBAAM,EAAE,GAAG",
+"sources": ["Panel.scss"],
+"names": [],
+"file": "Panel.css"
+}

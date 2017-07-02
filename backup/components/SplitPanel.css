@@ -1,0 +1,17 @@
+.panel {
+  width: 500px;
+  overflow: hidden;
+  margin: auto; }
+  .panel-left {
+    min-width: 20%;
+    min-height: 100px;
+    background-color: red;
+    float: left;
+    resize: horizontal; }
+  .panel-right {
+    max-width: 80%;
+    min-height: 100px;
+    background-color: yellow;
+    float: left; }
+
+/*# sourceMappingURL=SplitPanel.css.map */

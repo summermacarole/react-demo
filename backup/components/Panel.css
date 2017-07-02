@@ -1,0 +1,10 @@
+.panel {
+  width: 500px;
+  height: 500px;
+  margin: auto; }
+  .panel-blue {
+    background-color: blue; }
+  .panel-red {
+    background-color: red; }
+
+/*# sourceMappingURL=Panel.css.map */
